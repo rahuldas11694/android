@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AutoCompleteTv</string>
+    <string name="hint_auto">Select Country </string>
+    <string name="checkbox_name"> Select multiple options </string>
+    <string name="apple"> Apple</string>
+    <string name="orange"> orange</string>
+    <string name="carrot">carrot</string>
+    <string name="potato"> potato</string>
+    <string name="sugar"> sugar cane</string>
+    <string name="final_result"> Final Result</string>
+
+    <string-array name="country_names">
+
+        <item>India</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Impala</item>
+        <item>Indo</item>
+        <item>Ifghia</item>
+        <item>Idfdia</item>
+    </string-array>
+</resources>

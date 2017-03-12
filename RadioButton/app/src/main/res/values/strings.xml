@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="title_message">Select any one option </string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="grapes">Grapes</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="greeting">hi this is the first application i made jhfjhfjkghrjhgfhjwegfhjdegdshjfgeubfjhguoyfgbjwehbuy</string>
+    <string name="greeting_btn">click to open second Activity</string>
+    <string name="scnd_btn">click to open third activity</string>
+    <string name="scnd_actvt_btn">it takes to 3rd activity</string>
+    <string name="open_1st_actvt"> it takes you to first activity </string>
+</resources>

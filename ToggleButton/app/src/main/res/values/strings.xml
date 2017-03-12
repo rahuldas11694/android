@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="vb_on">Vibrate On</string>
+    <string name="vb_off">Vibrate off</string>
+    <string-array name="country_names">
+        <item> INdia </item>
+        <item>USA</item>
+        <item>Europe</item>
+        <item>Africa</item>
+        <item>china</item>
+        <item>pakistan</item>>
+    </string-array>
+</resources>
