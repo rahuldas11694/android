@@ -99,7 +99,7 @@ public class DerpAdapter extends RecyclerView.Adapter<DerpAdapter.DerpHolder> {
             // we need to reference above itemView taht gets passed in
             // which is actually list_item.xml file
             title = (TextView) itemView.findViewById(R.id.lbl_item_text);
-            subTitle = (TextView) itemView.findViewById(R.id.lbl_item_sub_title);
+              subTitle = (TextView) itemView.findViewById(R.id.lbl_item_sub_title);
             thumbnail = (ImageView) itemView.findViewById(R.id.im_item_icon);
             secondaryIcon = (ImageView) itemView.findViewById(R.id.im_item_icon_secondary);
             secondaryIcon.setOnClickListener(this);
