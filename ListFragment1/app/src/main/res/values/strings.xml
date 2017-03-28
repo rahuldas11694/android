@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListFragment1</string>
+    <string name="action_setting">Settings</string>
+    <string-array name="heroes">
+        <item>batman</item>
+        <item>superman</item>
+        <item>hulk</item>
+        <item>thor</item>
+
+    </string-array>
+    <string name="title_activity_another">MainActivity</string>
+</resources>

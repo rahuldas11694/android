@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FlexibleFragment</string>
+    <string-array name="titles">
+        <item >Activity</item>
+        <item >Content provider</item>
+        <item >Broadcast receiver</item>
+        <item >Intents and intent filters</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item >Description for Activity dffs fdsdfsf dsfds fadfada</item>
+        <item >Description for Content provider sdfsfsf dsgegtrg gbdvs</item>
+        <item >Description for Broadcast receiver sdfdsf sdfsdf sfdsfsdfs f</item>
+        <item >Description for Intents and intent filters ftr rggv egvc rg</item>
+
+    </string-array>
+</resources>
