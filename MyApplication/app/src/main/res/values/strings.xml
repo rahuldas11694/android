@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+    <string name="show_dialog">Show Dialog </string>
+    <string name="text">Do you like it?</string>
+    <string name="no_btn">no</string>
+    <string name="yes_btn">Yes</string>
+
+</resources>
